@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*.bd
+venv/
